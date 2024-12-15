@@ -13,6 +13,8 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
+<!-- 
+
 ### Github Status
 
 <img src="https://streak-stats.demolab.com/?user=harry21-kr&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" />
@@ -21,17 +23,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry21)](https://solved.ac/harry21/)
 
-<!--
-**harry21-kr/harry21-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
