@@ -20,10 +20,6 @@
 
 -->
 
-<!-- 
-
 ### BOJ Status
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harry21)](https://solved.ac/harry21/)
-
--->
