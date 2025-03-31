@@ -13,13 +13,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<!--
-
 ### Github Status
 
 <img src="https://streak-stats.demolab.com/?user=harry21-kr&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" />
-
--->
 
 ### BOJ Status
 
