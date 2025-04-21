@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - Building Web3 Multichain Gaming Platform (2022.12 ~ 2024.03)
-- Building Lawyer Information Platform (2024.12 ~)
 
 #### Language
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
