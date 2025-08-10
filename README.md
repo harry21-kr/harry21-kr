@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Building Web3 Multichain Gaming Platform (2022.12 ~ 2024.03)
+- Building Web3 Multichain Gaming Platform (2023.01 ~ 2024.04)
 
 <!--
 #### Language
